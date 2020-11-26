@@ -31,7 +31,14 @@
                                 Compra en línea
                             </a>
                         </li>
+                        
                     </ul>
+                    <ul class="navbar-nav" style="margin-left:80%"><li class="nav-item" >
+                            <a  style="font-size:1.1em;" href="loginadmin.php" >
+                                Log in
+                            </a>
+                        </li>
+                        </ul>
                 </div>
             
             </nav>
